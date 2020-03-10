@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/pauloraimundi2009/06dbc918-dbfc-4f9f-b4da-691b2dadaad9/b00e1bce-e1cc-46ed-8779-4682cd43ed1d/_apis/work/boardbadge/aa708af7-106e-42bf-866d-916ec22bec3b)](https://dev.azure.com/pauloraimundi2009/06dbc918-dbfc-4f9f-b4da-691b2dadaad9/_boards/board/t/b00e1bce-e1cc-46ed-8779-4682cd43ed1d/Microsoft.RequirementCategory)
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 ![](https://github.com/anologicon/cience-with-data/workflows/CI/badge.svg) 
